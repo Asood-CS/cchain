@@ -101,8 +101,8 @@ CChain implements the main data structures behind Bitcoin's ledger directly in C
 ### Build
 
 ```bash
-git clone https://github.com/Asood-CS/CChain.git
-cd CChain
+git clone https://github.com/Asood-CS/cchain.git
+cd cchain
 cc -std=c11 -Wall -Wextra -O2 blockchain.c sha256.c -o blockchain
 ```
 
