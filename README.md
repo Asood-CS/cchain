@@ -1,6 +1,6 @@
 # CChain
 
-A Bitcoin-style blockchain built from scratch in C.
+A Bitcoin-style blockchain built from scratch in C. 100% handwritten, no AI code. 
 
 CChain implements the main data structures behind Bitcoin's ledger directly in C, using only the standard library and a small SHA-256 implementation: UTXO-based transactions, hash-linked blocks, and Merkle trees with inclusion proofs. The aim is to understand how these pieces fit together at the level of pointers, memory and hashes, without relying on a framework.
 
