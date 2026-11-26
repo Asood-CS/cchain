@@ -1,0 +1,11 @@
+# Build artifacts
+blockchain
+*.o
+*.out
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# Local-only files
+Screenshot*.png
